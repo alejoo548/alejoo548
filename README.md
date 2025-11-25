@@ -24,6 +24,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alejoo548&theme=nightowl)](https://git.io/streak-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/alejoo548/github-stats-transparent/output/generated/languages.svg)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejoo548&theme=transparent)
+
 
 
