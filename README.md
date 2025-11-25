@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**alejoo548/alejoo548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Alejandro!
 
-Here are some ideas to get you started:
+• Junior software developer, first-year student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• I am from El Salvador 🇸🇻
+
+• • Techstack:
+   - JavaScript (JS)
+   - C#
+   - Python
+   - CSS
+   - HTML
+   - MySQL
+
+• Integrations & APIs:
+   - Payments: PayPal REST API
+   - Maps: Google Maps JavaScript API
+   - Authentication: Google OAuth 2.0, Facebook OAuth 2.0
+   - Security: Google reCAPTCHA
+
+
+# Git Hub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alejoo548&theme=nightowl)](https://git.io/streak-stats)
+
+![Most Used Languages](https://raw.githubusercontent.com/alejoo548/github-stats-transparent/output/generated/languages.svg)
+
+
