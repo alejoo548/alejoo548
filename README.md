@@ -23,7 +23,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alejoo548&theme=nightowl)](https://git.io/streak-stats)
 
-[![Alejo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alejoo548&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
