@@ -30,4 +30,11 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/ale">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ale&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 ###
