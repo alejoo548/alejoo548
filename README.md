@@ -11,6 +11,9 @@
    - Python
    - CSS
    - HTML
+   - Typescript
+   - React
+   - PostgresSQL
    - MySQL
 
 • Integrations & APIs:
