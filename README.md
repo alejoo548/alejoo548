@@ -1,5 +1,5 @@
 
-# Hey, I'm Alejandro!
+# Hey, I'm Ale!
 
 • Junior software developer, first-year student
 
