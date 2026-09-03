@@ -24,5 +24,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alejoo548&theme=nightowl)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=72kumtvc1h3d6gtrn8e56zwnm)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=72kumtvc1h3d6gtrn8e56zwnm)
 
