@@ -1,78 +1,66 @@
 <div align="center">
 
-# Hey, I'm Ale 👋
+Hey, I'm Ale 👋
+Software Development Student from El Salvador 🇸🇻
 
-### Software Development Student from El Salvador 🇸🇻
+I'm a junior developer focused on building modern software and constantly improving my skills across frontend, backend and infrastructure.
 
-I'm a junior developer focused on building modern software and constantly improving my skills across **frontend, backend and infrastructure**.
 
-\
+
+
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Software Development student
-* 🇸🇻 Based in El Salvador
-* 💻 Interested in full-stack development
-* 🐧 Linux enthusiast
-* 🐳 Learning more about containers, deployment and infrastructure
-* ⚙️ I enjoy working with APIs, authentication and integrations
-* 🚀 Always learning and experimenting with new technologies
-
----
-
-## 🧰 Tech Stack
-
-### Languages
+👨‍💻 About Me
+🎓 Software Development student
+🇸🇻 Based in El Salvador
+💻 Interested in full-stack development
+🐧 Linux enthusiast
+🐳 Learning more about containers, deployment and infrastructure
+⚙️ I enjoy working with APIs, authentication and integrations
+🚀 Always learning and experimenting with new technologies
+🧰 Tech Stack
+Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,php,go,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,python,php,go,html,css" />
 </p>
 
-### Frontend
+Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind" />
 </p>
 
-### Backend
+Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,dotnet" />
 </p>
 
-### Databases
+Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### Tools & Infrastructure
+Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 </p>
 
-`Podman` · `GitHub Actions` · `REST APIs` · `JWT` · `OAuth 2.0` · `n8n`
+Podman · GitHub Actions · REST APIs · JWT · OAuth 2.0 · n8n
 
----
-
-## 🔌 Integrations & APIs
-
-* 💳 PayPal REST API
-* 🗺️ Google Maps JavaScript API
-* 🔐 Google OAuth 2.0
-* 🔐 Facebook OAuth 2.0
-* 🛡️ Google reCAPTCHA
-* 🔑 JWT Authentication
-* ⚙️ REST APIs
-
----
-
-## 📊 GitHub Stats
+🔌 Integrations & APIs
+💳 PayPal REST API
+🗺️ Google Maps JavaScript API
+🔐 Google OAuth 2.0
+🔐 Facebook OAuth 2.0
+🛡️ Google reCAPTCHA
+🔑 JWT Authentication
+⚙️ REST APIs
+📊 GitHub Stats
 
 <div align="center">
 
@@ -84,20 +72,22 @@ I'm a junior developer focused on building modern software and constantly improv
 
 <div align="center">
 
-</div>
 
----
 
-## 🎧 Recently Played
-
-<div align="center">
 
 </div>
 
----
+🎧 Recently Played
 
 <div align="center">
 
-### 🌐 [aleexn.site](https://aleexn.site/)
+
+
+
+</div>
+
+<div align="center">
+
+🌐 aleexn.site
 
 </div>
